@@ -1,0 +1,22 @@
+{
+  "name": "google-form-2.0",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chalk": "^5.0.1",
+    "config": "^3.3.7",
+    "inquirer": "^8.2.1",
+    "moment": "^2.29.1",
+    "nanospinner": "^1.0.0"
+  }
+}
