@@ -44,7 +44,7 @@ const askSubject = async() =>{
             'Chemistry',
             'Sejarah',
             'Pendidikan Moral',
-            'Pendidikan Jasmani & Kesiihatan',
+            'Pendidikan Jasmani & Kesihatan',
         ]
     })
 
